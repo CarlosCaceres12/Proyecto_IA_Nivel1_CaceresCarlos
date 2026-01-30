@@ -67,3 +67,4 @@ Módulo de consulta dinámica que permite al usuario visualizar sus pendientes r
 **Autor:** Juan Rojas 
 **Organización:** AgendaBot Services  
 **Estatus:** Entregado - Versión 1.0.0
+
