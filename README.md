@@ -114,12 +114,14 @@ Se ha seguido un plan de pruebas exhaustivo (QA):
 
 ---
 
-## 👨‍💻 Autor y Créditos
+## 👨‍💻 Autores y Créditos
 
-Desarrollado con ❤️ y enfoque en automatización accesible.
+Desarrollado con ❤️ y enfoque en automatización accesible por:
 
-* **Desarrollador:** [Valentina Delgado Rincon](https://github.com/ValentinaDelgadoRincon)
-* **Licencia:** MIT (Gratuito para uso personal y educativo).
+* **Carlos Andres Caceres Orduz** - *Desarrollo y Arquitectura*
+* **Juan Rojas** - *Desarrollo e Implementación*
+
+**Licencia:** MIT (Gratuito para uso personal y educativo).
 
 ---
 *Este proyecto es parte de una iniciativa para democratizar el uso de Chatbots sin dependencias de servicios de pago.*
