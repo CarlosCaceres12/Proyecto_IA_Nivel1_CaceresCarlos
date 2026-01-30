@@ -125,3 +125,4 @@ Desarrollado con ❤️ y enfoque en automatización accesible por:
 
 ---
 *Este proyecto es parte de una iniciativa para democratizar el uso de Chatbots sin dependencias de servicios de pago.*
+
